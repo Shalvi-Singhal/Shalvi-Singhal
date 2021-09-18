@@ -16,6 +16,7 @@
 - 🔭 I’m currently working on **Personal Projects**. 
 - 🌱 I’m currently focusing on **Data structure and Algorithms**.
 - 👯 I’d like to collaborate on **Django** based projects.
+- 🤔 I'm looking for Internship.
 - 📫 How to reach me **shalvisinghal@gmail.com**
 
 <br>
