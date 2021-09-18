@@ -1,16 +1,14 @@
-### Hi there 👋
+Hii there👋
+I am Shalvi Singhal😃
+   
+I am 3rd year Computer Science undergraduate student. I am a Backend Developer and Competitive Programmer👩‍💻.
+GIF
 
-<!--
-**Shalvi-Singhal/Shalvi-Singhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Personal Projects.
+🌱 I’m currently focusing on Data structure and Algorithms.
+👯 I’d like to collaborate on Django based projects.
+📫 How to reach me shalvisinghal01@gmail.com
+⚡ Fun fact: In my free time, you'll find me reading , watching series or standup comedy.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+cplusplus django python c html5 css3 bootstrap javascript My-SQL flutter
