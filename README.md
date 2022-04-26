@@ -31,11 +31,12 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/javascript.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
+  
 </p>
 
  ## GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=Shalvi-Singhal&show_icons=true&count_private=true&theme=github_dark&hide_border=true)]
+![](https://github-readme-stats.vercel.app/api?username=Shalvi-Singhal&show_icons=true&count_private=true&theme=github_dark&hide_border=true)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=Shalvi-Singhal&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
+![](https://github-readme-streak-stats.herokuapp.com?user=Shalvi-Singhal&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
