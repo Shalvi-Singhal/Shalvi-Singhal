@@ -11,7 +11,7 @@
 
 #### I am 3rd year Computer Science undergraduate student. I am a Backend Developer and Competitive Programmer👩‍💻.
 
-<img align="right" alt="GIF" src="https://webstockreview.net/images/cleaning-clipart-clean-workplace.gif" width="30px"/>
+<img align="right" alt="GIF" src="https://webstockreview.net/images/cleaning-clipart-clean-workplace.gif" width="400px"/>
 
 - 🔭 I’m currently working on **Personal Projects**. 
 - 🌱 I’m currently focusing on **Data structure and Algorithms**.
